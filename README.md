@@ -11,13 +11,6 @@ filename: 1
 extension: txt
 ```
 
-
-### Сборка
-```
-go build -o filename-ext
-```
-
-
 ### Сценарии
 ```
 ./filename-ext /home/robotomize/1.txt
